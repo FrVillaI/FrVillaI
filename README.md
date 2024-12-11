@@ -34,6 +34,24 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </p>
 
+### Proyectos 
+<table>
+    <td width="50%">
+        <h3 align="center">Tetris Game 🎮</h3>
+        <div align="center">
+            <a href="https://github.com/FrVillaI/app-juego-tetris.git" target="_blank">
+            <img src="https://github.com/FrVillaI/app-juego-tetris/blob/main/assets/juego/testriss.jpg?raw=true" width="200">
+            </a>
+            <p>
+            <a href="https://github.com/FrVillaI/app-juego-tetris.git" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+            </p>
+            <p>Aplicación móvil para jugar Tetris, registrar puntuaciones y gestionar tu perfil. 🚀<strong>Desarrollada con ReactNative y FireBase</strong>.</p>
+        <div>                                                                               
+    </td>
+</table>   
+          
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/FrVillaI">
