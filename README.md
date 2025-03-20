@@ -50,6 +50,23 @@
             <p>Aplicación móvil para jugar Tetris, registrar puntuaciones y gestionar tu perfil. 🚀<strong>Desarrollada con ReactNative y FireBase</strong>.</p>
         <div>                                                                               
     </td>
+    <td width="50%">
+        <h3 align="center">Aprendiendo Redes Sociales 📱</h3>
+        <div align="center">
+            <a href="https://github.com/FrVillaI/Redes-Sociales" target="_blank">
+            <img src="https://raw.githubusercontent.com/FrVillaI/Redes-Sociales/refs/heads/main/Redes-Sociales.jpg" width="200">
+            </a>
+            <p>
+            <a href="https://github.com/FrVillaI/Redes-Sociales" target="_blank">
+            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+            </p>
+            <p> 
+              Aplicación para ayudar a los adultos mayores a aprender a usar las redes sociales.🚀<strong>Desarrollada con Angular 16</strong>
+            </p>
+            <p> Link de despliegue: https://frvillai.github.io/Redes-Sociales/ </p>
+        <div>                                                                               
+    </td>
 </table>   
           
 ### ⚙️ &nbsp;GitHub Analytics
