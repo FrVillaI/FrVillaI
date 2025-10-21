@@ -1,6 +1,6 @@
 <h1 align="center">
 	<a href="https://github.com/FrVillaI">
-		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Hola!+👋;Soy+Isaac+Villacis;Hi!+👋;I'm+Isaac+Villacis" alt="Typing SVG" />
+		<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=28&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Hola!+%F0%9F%91%8B;Soy+Isaac+Villacis;Hi!+%F0%9F%91%8B;I%27m+Isaac+Villacis" alt="Typing SVG" />
 	</a>
 </h1>
 
@@ -74,9 +74,7 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FrVillaI&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=FrVillaI&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrVillaI&theme=tokyonight&hide_border=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=FrVillaI&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrVillaI&theme=tokyonight&hide_border=true&layout=compact)
 
 ---
 
