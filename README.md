@@ -1,78 +1,87 @@
-<h1 align="center">Hola, soy Isaac Villacis 👋</h1>
-<h3 align="center">Desarrollador de software de Ecuador 🌎</h3>
+<h1 align="center">
+	<a href="https://github.com/FrVillaI">
+		<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00CFFF&center=true&vCenter=true&width=600&lines=Hola!+👋;Soy+Isaac+Villacis;Hi!+👋;I'm+Isaac+Villacis" alt="Typing SVG" />
+	</a>
+</h1>
 
-<p align="center">
-  🌱 Actualmente estoy aprendiendo <strong>C#</strong>
-  <br><br>
-  <a href="https://www.linkedin.com/in/isaac-villacis-200609334/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Isaac Villacis" />
-  </a>
-  <a href="mailto:isaacrvillacis@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo Isaac Villacis" />
-  </a>
-</p>
+<div align="center">
+	<img align="right" alt="Banner" width="480" src="imgs/solaries-banner.gif"/>
+</div>
 
-<h2 align="center">Lenguajes de Programación:</h2>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/800px-Python-logo-notext.svg.png" alt="python" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-</p>
+### 💫 About Me
 
-<h2 align="center">Tecnologías y Frameworks:</h2>
-<p align="center">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-</p>
+- 🎓 Soy **desarrollador de software**.  
+- 🔮 Aspiro a convertirme en **ingeniero en análisis de datos e inteligencia artificial**.  
+- ❤️ Me apasiona la **automatización**, aprender **nuevas tecnologías** y aplicar **principios de código limpio**.  
+- 🔭 Actualmente estoy aprendiendo **C#** y **.NET**.  
+- 📫 Puedes contactarme en **isaacrvillacis@gmail.com**  
 
-### Proyectos 
+---
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-villacis-200609334)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isaacrvillacis@gmail.com)
+
+---
+
+# 💻 Tech Stack:
+**🧠 Lenguajes:**  
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
+
+**⚙️ Frameworks & Librerías:**  
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+
+**🗄️ Bases de Datos:**  
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+**🧰 Herramientas & Otros:**  
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+---
+
+### 🚀 Proyectos 
 <table>
     <td width="50%">
         <h3 align="center">Tetris Game 🎮</h3>
         <div align="center">
             <a href="https://github.com/FrVillaI/app-juego-tetris.git" target="_blank">
-            <img src="https://github.com/FrVillaI/app-juego-tetris/blob/main/assets/juego/testriss.jpg?raw=true" width="200">
+                <img src="https://github.com/FrVillaI/app-juego-tetris/blob/main/assets/juego/testriss.jpg?raw=true" width="200">
             </a>
             <p>
-            <a href="https://github.com/FrVillaI/app-juego-tetris.git" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-            </a>
+                <a href="https://github.com/FrVillaI/app-juego-tetris.git" target="_blank">
+                    <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+                </a>
             </p>
-            <p>Aplicación móvil para jugar Tetris, registrar puntuaciones y gestionar tu perfil. 🚀<strong>Desarrollada con ReactNative y FireBase</strong>.</p>
-        <div>                                                                               
+            <p>Aplicación móvil para jugar Tetris, registrar puntuaciones y gestionar tu perfil. 🚀 <strong>Desarrollada con React Native y Firebase</strong>.</p>
+        </div>
     </td>
     <td width="50%">
         <h3 align="center">Aprendiendo Redes Sociales 📱</h3>
         <div align="center">
             <a href="https://github.com/FrVillaI/Redes-Sociales" target="_blank">
-            <img src="https://raw.githubusercontent.com/FrVillaI/Redes-Sociales/refs/heads/main/Redes-Sociales.jpg" width="200">
+                <img src="https://raw.githubusercontent.com/FrVillaI/Redes-Sociales/refs/heads/main/Redes-Sociales.jpg" width="200">
             </a>
             <p>
-            <a href="https://github.com/FrVillaI/Redes-Sociales" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-            </a>
+                <a href="https://github.com/FrVillaI/Redes-Sociales" target="_blank">
+                    <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+                </a>
             </p>
-            <p> 
-              Aplicación para ayudar a los adultos mayores a aprender a usar las redes sociales.🚀<strong>Desarrollada con Angular 16</strong>
-            </p>
-            <p> Link de despliegue: https://frvillai.github.io/Redes-Sociales/ </p>
-        <div>                                                                               
+            <p>Aplicación para ayudar a adultos mayores a aprender a usar redes sociales. 🚀 <strong>Desarrollada con Angular 16</strong>.</p>
+            <p><a href="https://frvillai.github.io/Redes-Sociales/">🔗 Ver despliegue</a></p>
+        </div>
     </td>
-</table>   
-          
-### ⚙️ &nbsp;GitHub Analytics
-<p align="center">
-<a href="https://github.com/FrVillaI">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=FrVillaI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=FrVillaI&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+</table>
+
+---
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=FrVillaI&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=FrVillaI&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrVillaI&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=FrVillaI&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
