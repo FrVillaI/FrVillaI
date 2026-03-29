@@ -18,12 +18,6 @@
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-villacis-200609334)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isaacrvillacis@gmail.com)
-
----
-
 # 💻 Tech Stack:
 **🧠 Lenguajes:**  
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) 
@@ -38,7 +32,42 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ---
 
+---
+
 ### 🚀 Proyectos 
+
+<table>
+    <td width="50%">
+        <h3 align="center">BackupCenter 💾</h3>
+        <div align="center">
+            <a href="https://github.com/FrVillaI/BackupCenter.git" target="_blank">
+                <img src="https://raw.githubusercontent.com/FrVillaI/BackupCenter/refs/heads/main/doc/Logo_Backup_Center.png" width="200">
+            </a>
+            <p>
+                <a href="https://github.com/FrVillaI/BackupCenter.git" target="_blank">
+                    <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+                </a>
+            </p>
+            <p>
+Sistema de gestión de respaldos empresariales con ejecución automática y manual, validación de integridad (SHA-256) y control de acceso. Backend en .NET 8 y frontend en Angular 18.</p>
+        </div>
+    </td>
+    <td width="50%">
+        <h3 align="center">Viveres Taty 🧺</h3>
+        <div align="center">
+            <a href="https://github.com/FrVillaI/Viveres-Taty-.git" target="_blank">
+                <img src="https://raw.githubusercontent.com/FrVillaI/Viveres-Taty-/refs/heads/main/assets/Icon_V.jpg" width="200">
+            </a>
+            <p>
+                <a href="https://github.com/FrVillaI/Viveres-Taty-.git" target="_blank">
+                    <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+                </a>
+            </p>
+            <p>Aplicación móvil desarrollada para la gestión eficiente de productos, deudas y pedidos en tiendas de víveres. Permite visualizar y actualizar productos, administrar deudas con pagos parciales en tiempo real y exportación en PDF</p>
+        </div>
+    </td>
+</table>
+
 <table>
     <td width="50%">
         <h3 align="center">Tetris Game 🎮</h3>
@@ -51,7 +80,7 @@
                     <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                 </a>
             </p>
-            <p>Aplicación móvil para jugar Tetris, registrar puntuaciones y gestionar tu perfil. 🚀 <strong>Desarrollada con React Native y Firebase</strong>.</p>
+            <p>Aplicación móvil para jugar Tetris, registrar puntuaciones y gestionar tu perfil. <strong>Desarrollada con React Native y Firebase</strong>.</p>
         </div>
     </td>
     <td width="50%">
@@ -65,7 +94,7 @@
                     <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
                 </a>
             </p>
-            <p>Aplicación para ayudar a adultos mayores a aprender a usar redes sociales. 🚀 <strong>Desarrollada con Angular 16</strong>.</p>
+            <p>Aplicación para ayudar a adultos mayores a aprender a usar redes sociales. <strong>Desarrollada con Angular 16</strong>.</p>
             <p><a href="https://frvillai.github.io/Redes-Sociales/">🔗 Ver despliegue</a></p>
         </div>
     </td>
@@ -73,10 +102,21 @@
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=FrVillaI&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FrVillaI&theme=tokyonight&hide_border=true&layout=compact)
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/isaac-villacis-200609334)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:isaacrvillacis@gmail.com)
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=FrVillaI&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+# 📊 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://ghstats.dev/api/card?username=FrVillaI&theme=tokyonight"/>
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=FrVillaI&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
